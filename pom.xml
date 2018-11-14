@@ -23,11 +23,10 @@
   </properties>
 	
   <dependencies>
-    <!-- https://mvnrepository.com/artifact/com.liferay.portal/portal-service -->
-<dependency>
-    <groupId>com.liferay.portal</groupId>
-    <artifactId>portal-service</artifactId>
-    <version>6.0.5</version>
+    <dependency>
+    <groupId>org.apache.geronimo.specs</groupId>
+    <artifactId>geronimo-servlet_3.0_spec</artifactId>
+    <version>1.0</version>
     <scope>provided</scope>
 </dependency>
     <dependency>
