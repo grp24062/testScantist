@@ -22,11 +22,6 @@
     <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
 <!-- https://mvnrepository.com/artifact/org.apache.maven/maven-core -->
-<dependency>
-    <groupId>org.apache.maven</groupId>
-    <artifactId>maven-core</artifactId>
-    <version>3.1.1</version>
-</dependency>
     <dependency>
       <groupId>args4j</groupId>
       <artifactId>args4j</artifactId>
