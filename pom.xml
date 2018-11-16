@@ -21,12 +21,11 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
-<!-- https://mvnrepository.com/artifact/org.apache.wicket/wicket -->
+<!-- https://mvnrepository.com/artifact/org.apache.maven/maven-core -->
 <dependency>
-    <groupId>org.apache.wicket</groupId>
-    <artifactId>wicket</artifactId>
-    <version>6.29.0</version>
-    <type>pom</type>
+    <groupId>org.apache.maven</groupId>
+    <artifactId>maven-core</artifactId>
+    <version>3.1.1</version>
 </dependency>
     <dependency>
       <groupId>args4j</groupId>
